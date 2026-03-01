@@ -5,6 +5,7 @@ This project analyzes retail sales performance using the Superstore dataset. The
 
 The dashboard was built entirely in Microsoft Excel using data cleaning, lookup functions, pivot tables, and data visualization techniques.
 
+
 **Business Questions Answered**
 
 What is the total sales and profit performance?
@@ -18,6 +19,7 @@ Which product categories are most profitable?
 How has sales performance changed over time?
 
 What is the return rate?
+
 
 **Key Metrics**
 
@@ -45,6 +47,7 @@ Dashboard design & layout principles
 
 Data visualization best practices
 
+
 **Data Sources**
 
 Orders table
@@ -54,6 +57,7 @@ Returns table
 People table
 
 Dataset sourced from Kaggle (Superstore dataset)
+
 
 **Key Insights**
 
@@ -65,9 +69,11 @@ Sales show an upward trend over the years.
 
 Return analysis highlights potential revenue leakage areas.
 
+
 **How to Use the Dashboard**
 
 Open the Excel file and navigate to the "Dashboard" sheet to view performance metrics and visualizations.
+
 
 **Author**
 
