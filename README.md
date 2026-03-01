@@ -29,8 +29,8 @@ Total Orders: 9,994
 
 Profit Margin: 12%
 
-**Tools & Excel Skills Demonstrated
-**
+**Tools & Excel Skills Demonstrated**
+
 Data Cleaning & Preparation
 
 XLOOKUP / INDEX-MATCH for table joins
