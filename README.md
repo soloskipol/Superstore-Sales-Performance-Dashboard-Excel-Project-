@@ -67,7 +67,7 @@ Technology is the most profitable category.
 
 Sales show an upward trend over the years.
 
-Return analysis highlights potential revenue leakage areas.
+The return analysis highlights potential revenue leakage areas.
 
 
 **How to Use the Dashboard**
