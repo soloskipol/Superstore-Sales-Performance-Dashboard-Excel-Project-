@@ -79,4 +79,4 @@ Open the Excel file and navigate to the "Dashboard" sheet to view performance me
 
 Solomon Mugambi
 
-Data Analyst | Excel | Business Intelligence
+Data Analyst/Sciencetist | Excel | Business Intelligence
